@@ -24,7 +24,7 @@ if (isset($_GET['reset']) && $_GET['reset'] == 1)
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <link href="style/style.css" type="text/css" rel="stylesheet" media="all" />
-        <title>Jeu d'Echec</title>
+        <title>Chess Game</title>
     </head>
     <body>
         <?php
